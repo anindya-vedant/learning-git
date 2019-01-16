@@ -1,1 +1,2 @@
-print("our democracy has been hacked")
+while (1):
+	print("testing patience")
